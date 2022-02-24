@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kagweitis
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning java and xml
+- 👀 I’m interested in software Engineering
+-
 -
 - 📫 How to reach me kagwegeorge82@gmail.com
 
