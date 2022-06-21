@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kagweitis
+- 👋 Hi, I’m @Kagwe
 - 👀 I’m interested in software Engineering
 -
 -
