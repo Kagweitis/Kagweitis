@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kagwe
-- 👀 I’m interested in Frontend software development using Vuejs
+- 👀 I’m interested in Frontend software development
 - 📫 How to reach me kagwegeorge82@gmail.com
 
 <!---
