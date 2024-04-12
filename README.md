@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, Distributed Computing, Kafka**
 
-- 📫 How to reach me **kafw**
+- 📫 How to reach me **kagwegeorge82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
