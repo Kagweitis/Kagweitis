@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Kimani</h1>
-<h3 align="center">A skilled backend and DevOps developer from Nairobi</h3>
+<h3 align="center">A talented backend, Integrations and DevOps developer from Nairobi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagweitis&label=Profile%20views&color=0e75b6&style=flat" alt="kagweitis" /> </p>
 
