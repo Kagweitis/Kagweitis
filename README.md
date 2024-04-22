@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm George Kimani</h1>
-<h3 align="center">A talented backend, Integrations and DevOps developer from Nairobi</h3>
+<h3 align="center">A talented Backend, Integrations and DevOps Engineer from Nairobi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kagweitis&label=Profile%20views&color=0e75b6&style=flat" alt="kagweitis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kagweitis" alt="kagweitis" /></a> </p>
+🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in Backend (Java Spring Boot), Integrations and DevOps.
 
-- 🔭 I’m currently working on [Recon Master](Private Project)
+💻 Professional Experience: Demonstrated expertise in the fintech industry with experience from Equity Bank Plc. (current employer) and NCBA Group Plc.
 
-- 🌱 I’m currently learning **Kubernetes**
+📚 Academic Insights: A strong foundation in Algorithms, Data Structures, Databases, System Architecture, and other essential computer science topics, gained through rigorous academic training.
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Distributed Computing, Kafka**
+🌟 Career Objective: Eager to contribute my skills in backend development, system integration, and DevOps to drive innovation and propel organizational growth in the dynamic landscape of banking technology.
 
-- 📫 How to reach me **kagwegeorge82@gmail.com**
+🤝 Let's Collaborate: Always open and ready to collaborate and contribute to cool new and existing projects!
+
+🔍 What I'm Exploring: DevOps, CICD, Automation.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
