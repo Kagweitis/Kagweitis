@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Kimani</h1>
-<h3 align="center">A talented Backend, Integrations and DevOps Engineer from Nairobi</h3>
+<h3 align="center">A Talented Backend, Integrations and DevOps Engineer From Nairobi</h3>
 
 
 🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in Backend (Java Spring Boot), Integrations and DevOps.
