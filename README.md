@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Kimani</h1>
 <h3 align="center">A Talented Backend, Integrations and DevOps Engineer From Nairobi</h3>
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Kagweitis alt=Kagweitis/> </p>
 🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in Backend (Java Spring Boot), Integrations and DevOps.
 
 💻 Professional Experience: Demonstrated expertise in the fintech industry with experience from Equity Bank Plc. (current employer) and NCBA Group Plc.
